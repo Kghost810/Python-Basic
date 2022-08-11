@@ -1,7 +1,7 @@
-"""minimum_number = int(input("Enter Minimum Number: "))
+minimum_number = int(input("Enter Minimum Number: "))
 maximum_number = int(input("Enter Maximum Number: "))
 for number in range(minimum_number, (maximum_number + 1)):
-    print(number)"""
+    print(number)
 
 
 prime_number = []
