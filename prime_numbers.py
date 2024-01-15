@@ -3,7 +3,6 @@ maximum_number = int(input("Enter Maximum Number: "))
 for number in range(minimum_number, (maximum_number + 1)):
     print(number)
 
-
 prime_number = []
 for number in range(1, 100):
     if number > 1:
